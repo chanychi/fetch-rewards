@@ -1,13 +1,11 @@
 
 ## Technologies
----
 * React/ReactDom
 * Axios
 * Cypress.io
 <br>
 
 ## Running the App
----
 In the project directory, you can run:
 * `npm install`
 * `npm run start` 
@@ -17,7 +15,6 @@ Initiating Testing
 <br>
 
 ## Notable Files & Comments
----
 * All of the frontend code is written exclusively in `src`
 * The test is located in `src/Testing`
 * React by default is XSS protected (sanitization)
@@ -25,10 +22,9 @@ Initiating Testing
 * Email input field require `@`, but lack certain checks
 * Password has no security 
     * Would utilize `bcrypt` or another library to protect the password
-    * Use regex to check for length, capitalization, numbers, symbols
+    * Use regex to check for length, capitalizations, numbers, symbols
 * Accessibility for the visual impaired
     * Require aria attributes
 
 ## Preview
----
 ![](https://s3.gifyu.com/images/ezgif.com-gif-makerb24111fb7dc25466.gif)
