@@ -28,7 +28,7 @@ Initiating Testing
     * Use regex to check for length, capitalization, numbers, symbols
 * Accessibility for the visual impaired
     * Require aria attributes
-<br>
+
 ## Preview
 ---
 ![](https://s3.gifyu.com/images/ezgif.com-gif-makerb24111fb7dc25466.gif)
